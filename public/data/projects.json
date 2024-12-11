@@ -1,0 +1,39 @@
+  [ 
+    {
+      "id": 1,
+      "nombre": "Portfolio 2022",
+      "imagen": "./images/portafolio2022.jpg",
+      "link": "https://jcqportfolio2022.netlify.app/"
+    },
+    {
+      "id": 2,
+      "nombre": "Prime Video 2022",
+      "imagen": "./images/primevideo2022.jpg",
+      "link": "https://primevideojuan2022.netlify.app/"
+    },
+    {
+      "id": 3,
+      "nombre": "ecommerce 2024",
+      "imagen": "./images/ecommerce2024.jpg",
+      "link": "https://ecommerce2024juan.netlify.app/"
+    },
+    {
+      "id": 4,
+      "nombre": "Spotify 2022 (Sin Completar)",
+      "imagen": "./images/spotify2022.jpg",
+      "link": "https://spotify2022juan.netlify.app/"
+    },
+    {
+      "id": 5,
+      "nombre": "3D Juegos Web",
+      "imagen": "./images/3djuegos.jpg",
+      "link": "https://3djuegos2022.netlify.app/"
+    },
+    {
+      "id": 6,
+      "nombre": "Comic Reader 2022",
+      "imagen": "./images/comicreader2022.jpg",
+      "link": "https://comicreaderjuan2022.netlify.app/"
+    }
+  ]
+  

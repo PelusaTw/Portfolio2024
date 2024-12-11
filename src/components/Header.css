@@ -1,0 +1,35 @@
+/* Header */
+.header {
+    background-color: #333;  /* Fondo oscuro */
+    color: white;
+    padding: 20px 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;  /* Centra los enlaces horizontalmente */
+    align-items: center;
+  }
+  
+  .navigation {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 10px 20px;  /* Añadimos padding para hacer los botones más grandes */
+    border-radius: 25px;  /* Añadimos border-radius a los botones */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;  /* Transición suave */
+  }
+  
+  .nav-link:hover {
+    background-color: #0071e3;  /* Azul en hover */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);  /* Añadimos una sombra suave para destacar el hover */
+  }
+  
